@@ -1,0 +1,15 @@
+.body{
+    padding:0;
+    margin : 0;
+
+}
+:root{
+    --white:#ffffff;
+    --mostaza:#c49226cb;
+}
+
+.nav-list{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+}
